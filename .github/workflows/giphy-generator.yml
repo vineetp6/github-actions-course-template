@@ -8,7 +8,7 @@ on:
  issue_comment:
    types: [opened, edited]
    
- jobs:
+jobs:
    giphy-generator:
      runs-on: ubuntu-latest
      
