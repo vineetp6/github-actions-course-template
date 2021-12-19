@@ -1,4 +1,4 @@
-name: GIPHY generator
+name: GIPHY generator2
 
 on:
  issues:
