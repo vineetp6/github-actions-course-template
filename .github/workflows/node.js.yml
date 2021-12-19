@@ -50,5 +50,5 @@ jobs:
        npm install
        npm test
       env:
-       Ci: true
+       CI: true
     
